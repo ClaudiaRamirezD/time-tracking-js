@@ -180,6 +180,7 @@ body {
     flex-flow: column nowrap;
     gap: .6rem;
     cursor: pointer;
+    border-radius: var(--br) var(--br) 0 0;
 }
 
 .activity-tracker_activity:hover > .activity_info {
